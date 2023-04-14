@@ -30,7 +30,7 @@ body {
   background: rgba(0, 0, 0, 1);
   border-radius: 10px;
   transform: translateY(5px);
-  box-shadow: 0 5px 10px #001aff;
+  box-shadow: 0 0 10px #001aff;
 }
 
 .tool {
